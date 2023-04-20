@@ -1,0 +1,49 @@
+.ContentUploadContainer{
+    width: 615px;
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    margin-bottom: 25px;
+    height: 150px;
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.contentWritingpart{
+    width: 29pc;
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 5vh;
+    border: none;
+}
+
+.icons{
+    font-size: 120%;
+    margin-left: 10px;
+    margin-top: 12px;
+    padding-right: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#video{
+    color: rgb(19, 17, 133);
+}
+
+#photo{
+    color: green;
+}
+
+#emoji{
+    color:rgb(252, 206, 0);
+}
+
+.btn btn-success{
+    float:left;
+}
