@@ -1,0 +1,12 @@
+.loginpage_rightcomponent { 
+    width: 400px;
+    padding-bottom: 25px;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    background-color: white;
+    padding-left: 10px;
+}
+
+.loginPage__signin {
+    margin-top: 25px;
+}

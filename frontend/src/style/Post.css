@@ -1,0 +1,124 @@
+.post__container {
+    width: 615px;
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    margin-bottom: 25px;
+    margin-left: -30px;
+    
+}
+.post__header{
+    height: 60px;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+}
+.post__image{
+    min-width: 30px;
+    min-height: 30px;
+    margin: 10px;
+}
+.post__username{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.post_reactimage {
+    width: 25px;
+    height:25px;
+    margin: 5px;
+}
+.post_comment {
+    margin: 10px;
+}
+.post__commentbox {
+    height: 40px;
+    width: 470px;
+    border: 0px;
+    border-top: 1px solid #dbdbdb;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.ibtn{
+    border: none; 
+    font-size: 24px; 
+    cursor: pointer; 
+    color: rgb(8, 117, 57);
+    background-color: white;
+    margin-left: 90px;
+    float: left;
+}
+  
+.ibtn:hover{
+    border: none; 
+}
+
+button :hover {
+    border-color: white;
+}
+
+.post{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+  
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.caption{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size:14px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    font-weight: 600;
+}
+  
+.username{
+    margin-top:20px;
+    margin-left: 20px;
+}
+
+#commentbtn{
+    float: right;
+    margin-right: 20px;
+}
+
+.comment{
+    margin-bottom: 25px;
+}
+
+ul li
+{
+    list-style-type: none;
+}
+
+/* Custom styles for the Carousel */
+.custom-carousel {
+    color: black; /* Font color */
+    position: relative; /* Set the parent element to relative positioning */
+  }
+  
+  /* Custom styles for the Carousel buttons */
+  .custom-carousel .control-arrow,
+  .custom-carousel .thumb {
+    border-radius: 50%; /* Button border radius */
+    width: 8%; /* Set the width of the buttons */
+    height: 11%; /* Set the height of the buttons */
+    margin-left: 5px;
+    margin-right: 5px;
+    bottom: 10%;
+    transform: translateY(450%);
+  }
+  
+  .custom-carousel .control-prev.control-arrow {
+    left: 0; /* Position the previous button at the left */
+  }
+  
+  .custom-carousel .control-next.control-arrow {
+    right: 0; /* Position the next button at the right */
+  }  

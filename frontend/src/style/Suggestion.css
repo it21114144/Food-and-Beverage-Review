@@ -1,0 +1,43 @@
+.suggest{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+
+.user{
+    background-color:#f3f3f3;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 125px;
+}
+
+#follow{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 70px;
+    font-size: 14px;
+}
+
+.name{
+    font-weight: 500;
+    margin-right: 85px;
+    font-size: 14px;
+}
+
+.viewbtn{
+    text-decoration: none;
+    margin-top: 5px;
+    color: rgb(2, 119, 80);
+    font-weight: 500;
+}

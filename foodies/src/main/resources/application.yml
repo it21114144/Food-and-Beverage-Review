@@ -1,0 +1,7 @@
+spring:
+    main:
+        allow-bean-definition-overriding: true
+    data:
+        mongodb:
+            uri : mongodb+srv://zerowaste:zerowaste0@cluster0.jjlu2o0.mongodb.net
+            database: foodies

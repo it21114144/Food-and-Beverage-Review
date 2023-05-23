@@ -1,0 +1,45 @@
+.ContentUploadContainer{
+    width: 615px;
+    border: 1px solid #dbdbdb;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    height: auto;
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.contentWritingpart{
+    width: 29pc;
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 6vh;
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+#video{
+    color: rgb(19, 17, 133);
+}
+
+#photo{
+    color: green;
+}
+
+#emoji{
+    color:rgb(252, 206, 0);
+    margin-top: 1px;
+    font-size: 25px;
+}
+
+.btn btn-success{
+    float:left;
+    margin-bottom: 10px;
+}

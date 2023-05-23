@@ -1,0 +1,34 @@
+.profileview{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    border-radius: 10px;
+    height: auto;
+}
+
+.profileimage{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom:10px;
+}
+
+.profilename{
+    font-weight: 700;
+    text-align:center;
+    color: rgb(0, 116, 48);
+}
+
+.likes{
+    float:left;
+    margin-top: 10px;
+    margin-left: 75px;
+    font-weight: 500;
+}
+
+.followers{
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-weight: 500;
+}

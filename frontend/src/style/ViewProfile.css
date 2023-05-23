@@ -1,0 +1,86 @@
+.followerList{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    border-radius: 10px;
+    width:495px;
+    text-align:center;
+    margin-top:30px;
+}
+
+.postList{
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    border-radius: 10px;
+    margin-left:100px;
+    text-align:center;
+    margin-top:30px;
+    margin-right: 10px;;
+}
+
+.info{
+    border-radius: 10px;
+    margin-left:85px;
+    margin-right: 85px;
+    background-color: white;
+    border: 1px solid #dbdbdb;    
+    justify-content: center;
+}
+
+.viewimage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom:15px;
+    margin-left:47%;
+}
+
+.viewname{
+    
+    color:rgb(10, 114, 79);
+    text-align:center;
+}
+
+/* Custom styles for the Carousel */
+.custom-carousel {
+    color: black; /* Font color */
+    position: relative; /* Set the parent element to relative positioning */
+  }
+  
+  /* Custom styles for the Carousel buttons */
+  .custom-carousel .control-arrow,
+  .custom-carousel .thumb {
+    border-radius: 50%; /* Button border radius */
+    width: 8%; /* Set the width of the buttons */
+    height: 11%; /* Set the height of the buttons */
+    margin-left: 5px;
+    margin-right: 5px;
+    bottom: 10%;
+    transform: translateY(450%);
+  }
+  
+  .custom-carousel .control-prev.control-arrow {
+    left: 0; /* Position the previous button at the left */
+  }
+  
+  .custom-carousel .control-next.control-arrow {
+    right: 0; /* Position the next button at the right */
+  }  
+
+  .user-unfollow{
+    background-color:#f3f3f3;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 125px;
+    margin-left: 80px;
+  }
+
+  .user-unfollow #follow{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 80px;
+    font-size: 14px;
+}
