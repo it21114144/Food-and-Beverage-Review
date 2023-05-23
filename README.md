@@ -1,6 +1,7 @@
 # Food-and-Beverage-Review
 
-Technologies:
+#Technologies:
+
 Backend: Spring Boot, Maven
 Frontend: ReactJS
 Database: MongoDB
